@@ -20,8 +20,8 @@ vercel dev
 1. Push this folder to a GitHub repo.
 2. Import the repo in Vercel.
 3. In Vercel Project Settings → Environment Variables, set:
-   - FULL_NAME = Mithun M
-   - DOB_DDMMYYYY = 29082005  # example; use your actual DOB
+   - FULL_NAME = Mothikaa K
+   - DOB_DDMMYYYY = 20042005  # example
    - EMAIL_ID = your_email@vitstudent.ac.in
    - ROLL_NUMBER = 22XXXXXXX
 4. Deploy. Your endpoint will be:
